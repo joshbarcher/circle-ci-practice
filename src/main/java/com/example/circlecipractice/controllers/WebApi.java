@@ -11,6 +11,6 @@ public class WebApi
     @GetMapping
     public String home()
     {
-        return "Hello, there!";
+        return "Hello, world!";
     }
 }
